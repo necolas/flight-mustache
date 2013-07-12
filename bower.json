@@ -1,0 +1,23 @@
+{
+  "name": "flight-mustache",
+  "version": "0.0.0",
+  "description": "A Flight component for rendering Mustache templates with mustache.js",
+  "dependencies": {
+    "flight": "~1.0.9",
+    "mustache": "~0.7.2"
+  },
+  "devDependencies": {
+    "jasmine-flight": "*",
+    "jasmine-jquery": "*"
+  },
+  "ignore": [
+    ".gitignore",
+    ".gitattributes",
+    ".travis.yml",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md",
+    "test",
+    "package.json",
+    "karma.conf.js"
+  ]
+}
