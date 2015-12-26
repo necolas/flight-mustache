@@ -1,5 +1,7 @@
 # flight-mustache
 
+![unmaintained](http://img.shields.io/badge/status-unmaintained-red.png)
+
 A [Flight](https://github.com/flightjs/flight) component for rendering Mustache
 templates with [mustache.js](https://github.com/janl/mustache.js).
 
